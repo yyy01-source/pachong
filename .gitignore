@@ -1,0 +1,15 @@
+# 虚拟环境
+.venv/
+venv/
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 数据库和日志
+*.db
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
